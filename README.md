@@ -1,8 +1,9 @@
-﻿# Courseplay & AutoDrive: Smart Lights (FS25_AISmartLights)
+# Courseplay & AutoDrive: Smart Lights (FS25_AISmartLights)
 
 [![Game](https://img.shields.io/badge/Game-Farming%20Simulator%2025-green.svg)](https://www.farming-simulator.com/)
 [![Courseplay Add-on](https://img.shields.io/badge/Add--on%20for-Courseplay-blue.svg)](https://github.com/Courseplay/Courseplay_FS25)
 [![AutoDrive Add-on](https://img.shields.io/badge/Add--on%20for-AutoDrive-blue.svg)](https://github.com/Stephan-S/FS25_AutoDrive)
+[![RMS Add-on](https://img.shields.io/badge/Add--on%20for-Realistic%20Mechanical%20Systems-orange.svg)](https://github.com/Squallqt/FS25_RealisticMechanicalSystems)
 [![GitHub Repository](https://img.shields.io/badge/GitHub-FS25__AISmartLights-181717?logo=github)](https://github.com/exekx/FS25_AISmartLights)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Version](https://img.shields.io/badge/Version-1.0.0.0-brightgreen.svg)](https://github.com/exekx/FS25_AISmartLights/releases)
