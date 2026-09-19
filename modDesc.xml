@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="111">
+    <author>exekx</author>
+    <version>1.0.0.0</version>
+    <title>
+        <en>Courseplay &amp; AutoDrive: Smart Lights (Battery Saver)</en>
+        <de>Courseplay &amp; AutoDrive: Smart Lights (Batteriesparer)</de>
+        <fr>Courseplay &amp; AutoDrive: Smart Lights (Économiseur de Batterie)</fr>
+    </title>
+    <description>
+<en><![CDATA[An essential add-on for Courseplay and AutoDrive that prevents vehicle batteries from draining in the Realistic Mechanical Systems (RMS) mod by automatically managing vehicle lights and beacons!
+
+The Problem:
+When vehicles operating under Courseplay or AutoDrive stop to wait (e.g. at wait points, during fuel-save idle, waiting for a combine, waiting to unload or load), they shut off their engines but leave all work lights and headlights burning. In Realistic Mechanical Systems (RMS), lights draw 20 to 27 Amps of electrical current. Without the engine running, the alternator produces 0 Amps, causing the vehicle's battery to discharge to 0% in a short time, leaving the vehicle completely dead and unable to start.
+
+The Solution:
+Smart Lights automatically monitors your Courseplay and AutoDrive machinery:
+- When the engine is stopped on a waiting or idle Courseplay/AutoDrive vehicle, Smart Lights immediately saves the active lighting configuration and shuts off all headlights, work lights, and beacon lights.
+- Electrical draw in RMS drops from ~25A back down to the vehicle's quiescent 0.5A idle state, keeping the battery fully charged and healthy.
+- When Courseplay or AutoDrive restarts the engine to resume work or travel, Smart Lights seamlessly restores your exact previous light and beacon settings!
+- If a vehicle sat idle until nighttime, headlights are automatically turned on upon starting up so workers never drive in the dark.
+- Does NOT interfere with manual player driving — your personal control over lights remains untouched.
+
+Requirements:
+- Requires Courseplay (FS25_Courseplay) installed and activated in the game.
+- Compatible with AutoDrive (FS25_AutoDrive) and Realistic Mechanical Systems (RMS).
+
+Credits:
+- Author: exekx
+- Dedicated to the FS25 community and the Courseplay & AutoDrive development teams.]]></en>
+
+<de><![CDATA[Ein unverzichtbares Add-on für Courseplay und AutoDrive, das verhindert, dass sich Fahrzeugbatterien im Realistic Mechanical Systems (RMS) Mod entladen, indem es Lichter und Rundumleuchten automatisch verwaltet!
+
+Das Problem:
+Wenn Fahrzeuge unter Courseplay oder AutoDrive anhalten und warten (z.B. an Wartepunkten, bei Kraftstoffspar-Stopps, beim Warten auf Drescher oder beim Be-/Entladen), schalten sie den Motor ab, lassen jedoch alle Arbeitsscheinwerfer und Scheinwerfer eingeschaltet. Im RMS-Mod verbrauchen Scheinwerfer 20 bis 27 Ampere Strom. Bei stehendem Motor liefert die Lichtmaschine 0 Ampere, wodurch die Batterie rasch auf 0% entladen wird und das Fahrzeug liegenbleibt.
+
+Die Lösung:
+Smart Lights überwacht Ihre Courseplay- und AutoDrive-Fahrzeuge automatisch:
+- Beim Abstellen des Motors eines wartenden Fahrzeugs speichert Smart Lights die aktuelle Beleuchtungskonfiguration und schaltet alle Lichter und Rundumleuchten sofort aus.
+- Der Stromverbrauch in RMS sinkt von ca. 25A auf den minimalen Ruhestrom von 0,5A, wodurch die Batterie voll geladen bleibt.
+- Sobald Courseplay oder AutoDrive den Motor wieder startet, stellt Smart Lights die genaue vorherige Beleuchtung nahtlos wieder her!
+- Stand ein Fahrzeug bis in die Nacht still, wird das Fahrlicht beim Starten automatisch aktiviert.
+- Beeinflusst nicht das manuelle Fahren durch den Spieler.
+
+Anforderungen:
+- Erfordert installierten und aktiven Courseplay-Mod (FS25_Courseplay).
+- Voll kompatibel mit AutoDrive und RMS.
+
+Credits:
+- Autor: exekx]]></de>
+
+<fr><![CDATA[Une extension indispensable pour Courseplay et AutoDrive qui empêche la batterie des véhicules de se décharger avec le mod Realistic Mechanical Systems (RMS) en gérant automatiquement les feux et gyrophares !
+
+Le Problème :
+Lorsque les véhicules sous Courseplay ou AutoDrive attendent (aux points d'attente, arrêt économie de carburant, attente de moissonneuse, déchargement), ils coupent le moteur mais laissent les feux de travail et projecteurs allumés. Avec RMS, les feux consomment 20 à 27 Ampères. Moteur éteint, l'alternateur produit 0A, vidant la batterie à 0% et empêchant tout redémarrage.
+
+La Solution :
+Smart Lights surveille automatiquement vos véhicules Courseplay et AutoDrive :
+- Lorsque le moteur se coupe à l'arrêt, Smart Lights mémorise l'état des feux et éteint immédiatement tous les projecteurs et gyrophares.
+- La consommation électrique sous RMS retombe de 25A à 0,5A, préservant totalement la batterie.
+- Au redémarrage du moteur pour reprendre le travail, Smart Lights rétablit exactement vos éclairages précédents !
+- Si le véhicule a attendu jusqu'à la nuit tombée, les feux de croisement s'allument automatiquement au démarrage.
+- N'interfère pas avec la conduite manuelle du joueur.
+
+Prérequis :
+- Nécessite le mod Courseplay (FS25_Courseplay) activé dans la partie.
+- Compatible avec AutoDrive et RMS.
+
+Crédits :
+- Auteur : exekx]]></fr>
+    </description>
+    <iconFilename>icon_AISmartLights.dds</iconFilename>
+    <multiplayer supported="true" />
+    
+    <dependencies>
+        <dependency>FS25_Courseplay</dependency>
+        <dependency>FS25_AutoDrive</dependency>
+    </dependencies>
+    
+    <l10n filenamePrefix="translations/l10n"/>
+    
+    <extraSourceFiles>
+        <sourceFile filename="src/main.lua" />
+    </extraSourceFiles>
+</modDesc>

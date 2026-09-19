@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" >
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay и AutoDrive: Умный свет"/>
+        <text name="cp_smart_lights_mod_desc" text="Предотвращает разрядку аккумулятора в моде RMS: автоматически выключает фары при глушении двигателя под управлением Courseplay и AutoDrive и восстанавливает их при запуске."/>
+    </texts>
+</l10n>

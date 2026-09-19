@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay y AutoDrive: Luces Inteligentes"/>
+        <text name="cp_smart_lights_mod_desc" text="Evita que se descargue la batería en RMS: apaga automáticamente las luces cuando Courseplay o AutoDrive detienen el motor y las restaura al arrancar."/>
+    </texts>
+</l10n>

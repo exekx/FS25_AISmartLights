@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: Lampu Pintar"/>
+        <text name="cp_smart_lights_mod_desc" text="Mencegah aki terkuras di RMS: otomatis mematikan lampu saat Courseplay atau AutoDrive mematikan mesin, dan menyalakannya kembali saat mesin hidup."/>
+    </texts>
+</l10n>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: 스마트 라이트"/>
+        <text name="cp_smart_lights_mod_desc" text="RMS 모드에서 배터리 방전 방지: 코스플레이 또는 오토드라이브로 엔진 정지 시 전등을 자동 소등하고 시동 시 복구합니다."/>
+    </texts>
+</l10n>

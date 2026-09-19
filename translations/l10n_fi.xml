@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: Älykkäät Valot"/>
+        <text name="cp_smart_lights_mod_desc" text="Estää akun tyhjenemisen RMS-modissa: sammuttaa valot automaattisesti, kun moottori sammutetaan Courseplaylla tai AutoDrivella, ja palauttaa ne käynnistettäessä."/>
+    </texts>
+</l10n>

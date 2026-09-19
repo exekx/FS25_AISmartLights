@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: スマートライト"/>
+        <text name="cp_smart_lights_mod_desc" text="RMSでのバッテリー上がりを防止：CourseplayまたはAutoDriveがエンジンを停止した際に自動でライトを消灯し、始動時に復元します。"/>
+    </texts>
+</l10n>

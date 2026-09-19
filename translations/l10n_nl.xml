@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: Slimme Verlichting"/>
+        <text name="cp_smart_lights_mod_desc" text="Voorkomt het leeglopen van de accu in RMS: schakelt automatisch lichten uit wanneer Courseplay of AutoDrive de motor stopt, en herstelt ze bij het starten."/>
+    </texts>
+</l10n>

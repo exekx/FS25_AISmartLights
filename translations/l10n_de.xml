@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+    <translationContributors>exekx</translationContributors>
+    <texts>
+        <text name="cp_smart_lights_mod_title" text="Courseplay & AutoDrive: Smart Lights"/>
+        <text name="cp_smart_lights_mod_desc" text="Verhindert Batterieentladung in RMS: Schaltet das Licht automatisch aus, wenn Courseplay oder AutoDrive den Motor stoppt, und stellt es beim Starten wieder her."/>
+    </texts>
+</l10n>
